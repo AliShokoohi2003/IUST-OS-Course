@@ -1,0 +1,7 @@
+repo:
+xv6_thread_OS_project
+link:
+https://github.com/lAmiR1HosseiNl/xv6_thread_OS_project
+
+
+به علت حجم زیاد، کوئرا اجازه آپلود نداد
